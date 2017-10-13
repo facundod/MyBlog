@@ -12,7 +12,7 @@ The information is stored in blocks that are linked to each other in an encrypte
 
 ## How does a blockchain work?
 
-According to its original design conceived by Satoshi Nakamoto (pseudonym), it is a peer-to-peer network composed of client and servers (miners, who verify and maintain the integrity of records and the ledger).
+According to its original design conceived by Satoshi Nakamoto (pseudonym), it is a peer-to-peer network  (some of their nodes are miners, who verify and maintain the integrity of records and the ledger).
 Client nodes request the servers to store transactions. Transactions are signed using a public key scheme guaranteeing their authenticity and at the same time ensuring the participation of the parties.
 
 The servers are then responsible for entering the transaction in blocks in the ledger (mine), by solving cryptographic riddles, proving that resources have been committed for this purpose. This process is known as proof of work (PoW). This proof of work is easily verifiable, but its production is very expensive. There are other methods of mining that I will mention later.
