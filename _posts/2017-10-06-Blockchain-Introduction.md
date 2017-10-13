@@ -11,7 +11,7 @@ La información se guarda en bloques que se unen unos con otros de forma encript
 
 ## ¿Cómo funciona una blockchain?
 
-Según su diseño original concebido por Satoshi Nakamoto (pseudonimo), se trata de una red peer-to-peer servidores (algunos de ellos mineros, que verifican y mantienen la integridad de los registros y del libro mayor).
+Según su diseño original concebido por Satoshi Nakamoto (pseudonimo), se trata de una red peer-to-peer (algunos de ellos servidores mineros, que verifican y mantienen la integridad de los registros y del libro mayor).
 Los nodos clientes solicitan a los servidores para almacenar las transacciones en el libro mayor. Las transacciones se firman utilizando un esquema de clave publica garantizando su autenticidad y al mismo tiempo asegurando la participación de las partes.
 
 Los servidores se encargan entonces de ingresar la transacción en bloques en el libro mayor (minar), mediante la resolución de acertijos criptográficos, probando así que se comprometieron recursos para tal fin. Este proceso se conoce como prueba de trabajo (proof of work, se abrevia PoW). Esta prueba de trabajo es fácilmente verificable, pero su producción es muy costosa. Existen otros métodos de minado que más adelante pienso mencionar.
