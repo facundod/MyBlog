@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m a Software Engineering and a member of the Engineering & Innovation team for LATAM at Microsoft. My expertise includes the Visual Studio IDE, Team Foundation Server, Visual Studio Team Services, DevOps practices and Azure.  I engage with customers to help them maximize their investments in DevOps and new technologies adoption in Azure.  Prior to Microsoft I worked for 13 years in IT consulting, building solutions to business problems on top of Microsoft technologies.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Here is my LinkedIn profile](https://www.linkedin.com/in/facundodavancens/) in case you would like to look at it.
 
-
-[jekyll-organization]: https://github.com/jekyll
